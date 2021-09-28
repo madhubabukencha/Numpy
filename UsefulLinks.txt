@@ -1,0 +1,2 @@
+# Crearly Explained about numpy axes
+https://www.sharpsightlabs.com/blog/numpy-axes-explained/
